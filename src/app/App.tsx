@@ -137,7 +137,7 @@ function Footer({ onNav }: { onNav: (p: Page) => void }) {
             className="h-12 w-auto object-contain mb-4 brightness-0 invert"
           />
           <p className="text-sm leading-relaxed max-w-xs">
-            Transformamos dados em decisões.
+            Transformamos dados em resultados para o agronegócio.
           </p>
         </div>
 
